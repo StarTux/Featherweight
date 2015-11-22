@@ -43,6 +43,7 @@ public class FeatherweightPlugin extends JavaPlugin implements Listener {
         case ARMOR_STAND:
         case PLAYER:
         case ENDER_DRAGON:
+        case WITHER:
             return;
         default:
             break;
