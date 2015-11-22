@@ -1,0 +1,8 @@
+name: Featherweight
+description: Lift mobs using a feather
+author: StarTux
+version: 0.1
+main: com.winthier.featherweight.FeatherweightPlugin
+depend: []
+commands: {}
+permissions: {}
